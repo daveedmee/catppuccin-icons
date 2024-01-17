@@ -23,12 +23,6 @@ So... <strong>here they are!</strong>
 
 &nbsp;
 
-<p align="center">
-If you want to suggest new icons or have ideas on how to improve existing ones, please feel free to reach out! I'm still new to this whole GitHub thingt, but I think I'll manage :)
-</p>
-
-&nbsp;
-
 <!----------------------------- BROWSERS ----------------------------->
 <details><summary>BROWSERS</summary>
 
@@ -65,6 +59,15 @@ CMD|PowerShell|Windows Terminal|GitCMD
  
 </details>
 
+<!----------------------------- GAME LAUNCHERS ----------------------------->
+<details><summary>GAME LAUNCHERS</summary>
+
+EA Play|Epic Games|Heroic|GOG GALAXY|Steam
+---|---|---|---|---
+<img src="https://raw.githubusercontent.com/Daveedmee/catppuccin-icons/main/assets/icons/preview/game-launchers/ea-play.png" width="64px">|<img src="https://raw.githubusercontent.com/Daveedmee/catppuccin-icons/main/assets/icons/preview/game-launchers/epic.png" width="64px">|<img src="https://raw.githubusercontent.com/Daveedmee/catppuccin-icons/main/assets/icons/preview/game-launchers/heroic.png" width="64px">|<img src="https://raw.githubusercontent.com/Daveedmee/catppuccin-icons/main/assets/icons/preview/game-launchers/gog-galaxy.png" width="64px">|<img src="https://raw.githubusercontent.com/Daveedmee/catppuccin-icons/main/assets/icons/preview/game-launchers/steam.png" width="64px">
+
+</details>
+
 <!----------------------------- GAMES ----------------------------->
 <details><summary>GAMES</summary>
 
@@ -88,6 +91,31 @@ Audacity|Blender|DaVinci Resolve|Elgato Wave Link|FL Studio|GIMP|Inkscape|OBS St
 
 Creative Cloud|Illustrator|InDesign|Photoshop|Premiere Pro|After Effects|Media Encoder|Figma
  ---|---|---|---|---|---|---|---
- <img src="https://raw.githubusercontent.com/Daveedmee/catppuccin-icons/main/assets/icons/preview/adobe/adobe-cc.png" width="64px">|<img src="https://raw.githubusercontent.com/Daveedmee/catppuccin-icons/main/assets/icons/preview/adobe/illustrator.png" width="64px">|<img src="https://raw.githubusercontent.com/Daveedmee/catppuccin-icons/main/assets/icons/preview/adobe/indesign.png" width="64px">|<img src="https://raw.githubusercontent.com/Daveedmee/catppuccin-icons/main/assets/icons/preview/adobe/photoshop.png" width="64px">|<img src="https://raw.githubusercontent.com/Daveedmee/catppuccin-icons/main/assets/icons/preview/adobe/premiere-pro.png" width="64px">|<img src="https://raw.githubusercontent.com/Daveedmee/catppuccin-icons/main/assets/icons/preview/adobe/after-effects.png" width="64px">|<img src="https://raw.githubusercontent.com/Daveedmee/catppuccin-icons/main/assets/icons/preview/adobe/media-encoder.png" width="64px">|<img src="https://raw.githubusercontent.com/Daveedmee/catppuccin-icons/main/assets/icons/preview/adobe/figma.png" width="64px"> 
+<img src="https://raw.githubusercontent.com/Daveedmee/catppuccin-icons/main/assets/icons/preview/adobe/adobe-cc.png" width="64px">|<img src="https://raw.githubusercontent.com/Daveedmee/catppuccin-icons/main/assets/icons/preview/adobe/illustrator.png" width="64px">|<img src="https://raw.githubusercontent.com/Daveedmee/catppuccin-icons/main/assets/icons/preview/adobe/indesign.png" width="64px">|<img src="https://raw.githubusercontent.com/Daveedmee/catppuccin-icons/main/assets/icons/preview/adobe/photoshop.png" width="64px">|<img src="https://raw.githubusercontent.com/Daveedmee/catppuccin-icons/main/assets/icons/preview/adobe/premiere-pro.png" width="64px">|<img src="https://raw.githubusercontent.com/Daveedmee/catppuccin-icons/main/assets/icons/preview/adobe/after-effects.png" width="64px">|<img src="https://raw.githubusercontent.com/Daveedmee/catppuccin-icons/main/assets/icons/preview/adobe/media-encoder.png" width="64px">|<img src="https://raw.githubusercontent.com/Daveedmee/catppuccin-icons/main/assets/icons/preview/adobe/figma.png" width="64px"> 
  
 </details>
+
+<!----------------------------- OFFICE ----------------------------->
+<details><summary>OFFICE</summary>
+	
+Office|Access|Excel|OneNote|Outlook|PowerPoint|Word
+---|---|---|---|---|---|---
+<img src="https://raw.githubusercontent.com/Daveedmee/catppuccin-icons/main/assets/icons/preview/office/ms-office.png" width="64px">|<img src="https://raw.githubusercontent.com/Daveedmee/catppuccin-icons/main/assets/icons/preview/office/access.png" width="64px">|<img src="https://raw.githubusercontent.com/Daveedmee/catppuccin-icons/main/assets/icons/preview/office/excel.png" width="64px">|<img src="https://raw.githubusercontent.com/Daveedmee/catppuccin-icons/main/assets/icons/preview/office/onenote.png" width="64px">|<img src="https://raw.githubusercontent.com/Daveedmee/catppuccin-icons/main/assets/icons/preview/office/outlook.png" width="64px">|<img src="https://raw.githubusercontent.com/Daveedmee/catppuccin-icons/main/assets/icons/preview/office/powerpoint.png" width="64px">|<img src="https://raw.githubusercontent.com/Daveedmee/catppuccin-icons/main/assets/icons/preview/office/word.png" width="64px">| 
+	
+</details>
+
+<!----------------------------- UTILITIES ----------------------------->
+<details><summary>UTILITIES</summary>
+
+1Password|7-Zip|AIMP|Bitdefender|Docker|Explorer|Files|GitHub Desktop|Irfanview|KeepassXC|Malwarebytes|MEGA|Nilesoft Shell|Obsidian.md|Open Shell|PowerToys|qBittorrent|Spotify|Sumatra PDF|Task Manager|VLC|Wallpaper Engine|Wiztree
+---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---
+<img src="https://raw.githubusercontent.com/Daveedmee/catppuccin-icons/main/assets/icons/preview/utilities/1password.png" width="64px">|<img src="https://raw.githubusercontent.com/Daveedmee/catppuccin-icons/main/assets/icons/preview/utilities/7zip.png" width="64px">|<img src="https://raw.githubusercontent.com/Daveedmee/catppuccin-icons/main/assets/icons/preview/utilities/aimp.png" width="64px">|<img src="https://raw.githubusercontent.com/Daveedmee/catppuccin-icons/main/assets/icons/preview/utilities/bitdefender.png" width="64px">|<img src="https://raw.githubusercontent.com/Daveedmee/catppuccin-icons/main/assets/icons/preview/utilities/docker.png" width="64px">|<img src="https://raw.githubusercontent.com/Daveedmee/catppuccin-icons/main/assets/icons/preview/utilities/explorer.png" width="64px">|<img src="https://raw.githubusercontent.com/Daveedmee/catppuccin-icons/main/assets/icons/preview/utilities/files.png" width="64px">|<img src="https://raw.githubusercontent.com/Daveedmee/catppuccin-icons/main/assets/icons/preview/utilities/github.png" width="64px">|<img src="https://raw.githubusercontent.com/Daveedmee/catppuccin-icons/main/assets/icons/preview/utilities/irfanview.png" width="64px">|<img src="https://raw.githubusercontent.com/Daveedmee/catppuccin-icons/main/assets/icons/preview/utilities/keepassxc.png" width="64px">|<img src="https://raw.githubusercontent.com/Daveedmee/catppuccin-icons/main/assets/icons/preview/utilities/malwarebytes.png" width="64px">|<img src="https://raw.githubusercontent.com/Daveedmee/catppuccin-icons/main/assets/icons/preview/utilities/mega.png" width="64px">|<img src="https://raw.githubusercontent.com/Daveedmee/catppuccin-icons/main/assets/icons/preview/utilities/nilesoft_shell.png" width="64px">|<img src="https://raw.githubusercontent.com/Daveedmee/catppuccin-icons/main/assets/icons/preview/utilities/obsidian-md.png" width="64px">|<img src="https://raw.githubusercontent.com/Daveedmee/catppuccin-icons/main/assets/icons/preview/utilities/openshell.png" width="64px">|<img src="https://raw.githubusercontent.com/Daveedmee/catppuccin-icons/main/assets/icons/preview/utilities/powertoys.png" width="64px">|<img src="https://raw.githubusercontent.com/Daveedmee/catppuccin-icons/main/assets/icons/preview/utilities/qbittorrent.png" width="64px">|<img src="https://raw.githubusercontent.com/Daveedmee/catppuccin-icons/main/assets/icons/preview/utilities/spotify.png" width="64px">|<img src="https://raw.githubusercontent.com/Daveedmee/catppuccin-icons/main/assets/icons/preview/utilities/sumatra-pdf.png" width="64px">|<img src="https://raw.githubusercontent.com/Daveedmee/catppuccin-icons/main/assets/icons/preview/utilities/task-manager.png" width="64px">|<img src="https://raw.githubusercontent.com/Daveedmee/catppuccin-icons/main/assets/icons/preview/utilities/vlc.png" width="64px">|<img src="https://raw.githubusercontent.com/Daveedmee/catppuccin-icons/main/assets/icons/preview/utilities/wallpaper-engine.png" width="64px">|<img src="https://raw.githubusercontent.com/Daveedmee/catppuccin-icons/main/assets/icons/preview/utilities/wiztree.png" width="64px">	
+
+</details>
+
+
+&nbsp;
+
+<p align="center">
+If you want to suggest new icons or have ideas on how to improve existing ones, please feel free to reach out! I'm still new to this whole GitHub thing, but I think I'll manage :)
+</p>

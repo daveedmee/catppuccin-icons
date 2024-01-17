@@ -4,6 +4,6 @@
 	Catppuccin Icons
     </h3>
 
-    <p align="center">
+   <p align="center">
     A collection of <strong>over 100!</strong> icons I made to fit together with the <a href="https://github.com/catppuccin/catppuccin">Catppuccin color scheme.</a><br>
-    For now, only the Macchiato flavor is covered, as it's the one I use myself. 
+    For now, only the Macchiato flavor is covered, as it's the one I use myself.</p>

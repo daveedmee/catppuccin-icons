@@ -33,10 +33,34 @@ If you want to suggest new icons or have ideas on how to improve existing ones, 
 <details><summary>BROWSERS</summary>
 
 Brave|Chromium|Chrome|Chrome Canary|Edge|Edge Beta|Edge Canary|Edge Dev|Firefox|Opera|OperaGX|Vivaldi
---|--|--|--|--|--|--|--|--|--|--|--
+---|---|---|---|---|---|---|---|---|---|---|---
 <img src="https://raw.githubusercontent.com/Daveedmee/catppuccin-icons/main/assets/icons/preview/browsers/brave.png" width="64px">|<img src="https://raw.githubusercontent.com/Daveedmee/catppuccin-icons/main/assets/icons/preview/browsers/chromium.png" width="64px">|<img src="https://raw.githubusercontent.com/Daveedmee/catppuccin-icons/main/assets/icons/preview/browsers/chrome.png" width="64px">|<img src="https://raw.githubusercontent.com/Daveedmee/catppuccin-icons/main/assets/icons/preview/browsers/chrome-canary.png" width="64px">|<img src="https://raw.githubusercontent.com/Daveedmee/catppuccin-icons/main/assets/icons/preview/browsers/edge.png" width="64px">|<img src="https://raw.githubusercontent.com/Daveedmee/catppuccin-icons/main/assets/icons/preview/browsers/edge-beta.png" width="64px">|<img src="https://raw.githubusercontent.com/Daveedmee/catppuccin-icons/main/assets/icons/preview/browsers/edge-canary.png" width="64px">|<img src="https://raw.githubusercontent.com/Daveedmee/catppuccin-icons/main/assets/icons/preview/browsers/edge-dev.png" width="64px">|<img src="https://raw.githubusercontent.com/Daveedmee/catppuccin-icons/main/assets/icons/preview/browsers/firefox.png" width="64px">|<img src="https://raw.githubusercontent.com/Daveedmee/catppuccin-icons/main/assets/icons/preview/browsers/opera.png" width="64px">|<img src="https://raw.githubusercontent.com/Daveedmee/catppuccin-icons/main/assets/icons/preview/browsers/operagx.png" width="64px">|<img src="https://raw.githubusercontent.com/Daveedmee/catppuccin-icons/main/assets/icons/preview/browsers/vivaldi.png" width="64px">
 
 </details>
 
-<!----------------------------- BROWSERS ----------------------------->
-<details><summary>BROWSERS</summary>
+<!----------------------------- SOCIALS ----------------------------->
+<details><summary>SOCIALS</summary>
+	
+Discord|WhatsApp|Telegram|Slack|Teams|Facebook|Liftoff|YCombinator
+---|---|---|---|---|---|---|---
+<img src="https://raw.githubusercontent.com/Daveedmee/catppuccin-icons/main/assets/icons/preview/social/discord.png" width="64px">|<img src="https://raw.githubusercontent.com/Daveedmee/catppuccin-icons/main/assets/icons/preview/social/whatsapp.png" width="64px">|<img src="https://raw.githubusercontent.com/Daveedmee/catppuccin-icons/main/assets/icons/preview/social/telegram.png" width="64px">|<img src="https://raw.githubusercontent.com/Daveedmee/catppuccin-icons/main/assets/icons/preview/social/slack.png" width="64px">|<img src="https://raw.githubusercontent.com/Daveedmee/catppuccin-icons/main/assets/icons/preview/social/teams.png" width="64px">|<img src="https://raw.githubusercontent.com/Daveedmee/catppuccin-icons/main/assets/icons/preview/social/facebook.png" width="64px">|<img src="https://raw.githubusercontent.com/Daveedmee/catppuccin-icons/main/assets/icons/preview/social/liftoff.png" width="64px">|<img src="https://raw.githubusercontent.com/Daveedmee/catppuccin-icons/main/assets/icons/preview/social/ycombinator.png" width="64px">
+
+</details>
+
+<!----------------------------- TERMINALS ----------------------------->
+<details><summary>TERMINALS</summary>
+	
+CMD|PowerShell|Windows Terminal|GitCMD
+---|---|---|---
+<img src="https://raw.githubusercontent.com/Daveedmee/catppuccin-icons/main/assets/icons/preview/terminals/cmd.png" width="64px">|<img src="https://raw.githubusercontent.com/Daveedmee/catppuccin-icons/main/assets/icons/preview/terminals/powershell.png" width="64px">|<img src="https://raw.githubusercontent.com/Daveedmee/catppuccin-icons/main/assets/icons/preview/terminals/terminal.png" width="64px">|<img src="https://raw.githubusercontent.com/Daveedmee/catppuccin-icons/main/assets/icons/preview/terminals/git_cmd.png" width="64px">
+
+</details>
+
+<!----------------------------- EDITORS ----------------------------->
+<details><summary>EDITORS</summary>
+
+ Notepad|Notepad++|Vim|Neovim|Helix|Python|IDLE|Visual Studio|VS Code|VSCodium|Pycharm|Rustrover|Wezterm|QOwnnotes
+ ---|---|---|---|---|---|---|---|---|---|---|---|---|---
+ <img src="https://raw.githubusercontent.com/Daveedmee/catppuccin-icons/main/assets/icons/preview/editors/notepad.png" width="64px">| <img src="https://raw.githubusercontent.com/Daveedmee/catppuccin-icons/main/assets/icons/preview/editors/notepad-plus-plus.png" width="64px">| <img src="https://raw.githubusercontent.com/Daveedmee/catppuccin-icons/main/assets/icons/preview/editors/vim.png" width="64px">| <img src="https://raw.githubusercontent.com/Daveedmee/catppuccin-icons/main/assets/icons/preview/editors/neovim.png" width="64px">| <img src="https://raw.githubusercontent.com/Daveedmee/catppuccin-icons/main/assets/icons/preview/editors/helix.png" width="64px">| <img src="https://raw.githubusercontent.com/Daveedmee/catppuccin-icons/main/assets/icons/preview/editors/python.png" width="64px">| <img src="https://raw.githubusercontent.com/Daveedmee/catppuccin-icons/main/assets/icons/preview/editors/python_idle.png" width="64px">| <img src="https://raw.githubusercontent.com/Daveedmee/catppuccin-icons/main/assets/icons/preview/editors/visual-studio.png" width="64px">| <img src="https://raw.githubusercontent.com/Daveedmee/catppuccin-icons/main/assets/icons/preview/editors/vscode.png" width="64px">| <img src="https://raw.githubusercontent.com/Daveedmee/catppuccin-icons/main/assets/icons/preview/editors/vscodium.png" width="64px">| <img src="https://raw.githubusercontent.com/Daveedmee/catppuccin-icons/main/assets/icons/preview/editors/pycharm.png" width="64px">| <img src="https://raw.githubusercontent.com/Daveedmee/catppuccin-icons/main/assets/icons/preview/editors/rustrover.png" width="64px">| <img src="https://raw.githubusercontent.com/Daveedmee/catppuccin-icons/main/assets/icons/preview/editors/wezterm.png" width="64px">| <img src="https://raw.githubusercontent.com/Daveedmee/catppuccin-icons/main/assets/icons/preview/editors/qownnotes.png" width="64px">
+ 
+</details>

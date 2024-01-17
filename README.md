@@ -117,5 +117,6 @@ Office|Access|Excel|OneNote|Outlook|PowerPoint|Word
 &nbsp;
 
 <p align="center">
-If you want to suggest new icons or have ideas on how to improve existing ones, please feel free to reach out! I'm still new to this whole GitHub thing, but I think I'll manage :)
+If you want to suggest new icons or have ideas on how to improve existing ones, please feel free to reach out! I'm still new to this whole GitHub thing, but I think I'll manage :)<br>
+All icons don't have different size variants for now, creating icons is new to me as well. If anyone knows more about that than I do, please link some resources to learn!
 </p>

@@ -26,3 +26,11 @@ So... <strong>here they are!</strong>
 <p align="center">
 If you want to suggest new icons or have ideas on how to improve existing ones, please feel free to reach out! I'm still new to this whole GitHub thingt, but I think I'll manage :)
 </p>
+
+&nbsp;
+
+<!----------------------------- BROWSERS ----------------------------->
+<details><summary>BROWSERS</summary>
+
+Brave|Chromium|Chrome|Chrome Canary|Chromium|Edge|Edge Beta|Edge Canary|Edge Dev|Firefox|Opera|OperaGX|Vivaldi
+--|--|--|--|--|--|--|--|--|--|--|--|--

@@ -32,5 +32,11 @@ If you want to suggest new icons or have ideas on how to improve existing ones, 
 <!----------------------------- BROWSERS ----------------------------->
 <details><summary>BROWSERS</summary>
 
-Brave|Chromium|Chrome|Chrome Canary|Chromium|Edge|Edge Beta|Edge Canary|Edge Dev|Firefox|Opera|OperaGX|Vivaldi
---|--|--|--|--|--|--|--|--|--|--|--|--
+Brave|Chromium|Chrome|Chrome Canary|Edge|Edge Beta|Edge Canary|Edge Dev|Firefox|Opera|OperaGX|Vivaldi
+--|--|--|--|--|--|--|--|--|--|--|--
+<img src="https://raw.githubusercontent.com/Daveedmee/catppuccin-icons/main/assets/icons/preview/browsers/brave.png" width="64px">|<img src="https://raw.githubusercontent.com/Daveedmee/catppuccin-icons/main/assets/icons/preview/browsers/chromium.png" width="64px">|<img src="https://raw.githubusercontent.com/Daveedmee/catppuccin-icons/main/assets/icons/preview/browsers/chrome.png" width="64px">|<img src="https://raw.githubusercontent.com/Daveedmee/catppuccin-icons/main/assets/icons/preview/browsers/chrome-canary.png" width="64px">|<img src="https://raw.githubusercontent.com/Daveedmee/catppuccin-icons/main/assets/icons/preview/browsers/edge.png" width="64px">|<img src="https://raw.githubusercontent.com/Daveedmee/catppuccin-icons/main/assets/icons/preview/browsers/edge-beta.png" width="64px">|<img src="https://raw.githubusercontent.com/Daveedmee/catppuccin-icons/main/assets/icons/preview/browsers/edge-canary.png" width="64px">|<img src="https://raw.githubusercontent.com/Daveedmee/catppuccin-icons/main/assets/icons/preview/browsers/edge-dev.png" width="64px">|<img src="https://raw.githubusercontent.com/Daveedmee/catppuccin-icons/main/assets/icons/preview/browsers/firefox.png" width="64px">|<img src="https://raw.githubusercontent.com/Daveedmee/catppuccin-icons/main/assets/icons/preview/browsers/opera.png" width="64px">|<img src="https://raw.githubusercontent.com/Daveedmee/catppuccin-icons/main/assets/icons/preview/browsers/operagx.png" width="64px">|<img src="https://raw.githubusercontent.com/Daveedmee/catppuccin-icons/main/assets/icons/preview/browsers/vivaldi.png" width="64px">
+
+</details>
+
+<!----------------------------- BROWSERS ----------------------------->
+<details><summary>BROWSERS</summary>

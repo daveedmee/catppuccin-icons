@@ -120,3 +120,11 @@ Office|Access|Excel|OneNote|Outlook|PowerPoint|Word
 If you want to suggest new icons or have ideas on how to improve existing ones, please feel free to reach out! I'm still new to this whole GitHub thing, but I think I'll manage :)<br>
 All icons don't have different size variants for now, creating icons is new to me as well. If anyone knows more about that than I do, please link some resources to learn!
 </p>
+&nbsp;
+<p align="center">
+	If you like what I do, tips are greatly appreciated and go directly into more coffee and energy drinks :)
+</p>
+
+<p align="center">
+<a href='https://ko-fi.com/I2I7TGXW4' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi5.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+</p>

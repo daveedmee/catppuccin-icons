@@ -44,7 +44,7 @@ Discord|WhatsApp|Telegram|Slack|Teams|Facebook|Liftoff|YCombinator|Beeper|YouTub
 <!----------------------------- TERMINALS ----------------------------->
 <details><summary>TERMINALS</summary>
 	
-CMD|PowerShell|Windows Terminal|GitCMD|
+CMD|PowerShell|Windows Terminal|GitCMD|Wezterm
 ---|---|---|---|---
 <img src="https://raw.githubusercontent.com/Daveedmee/catppuccin-icons/main/assets/icons/preview/dark/terminals/cmd.png" width="64px" align="center">|<img src="https://raw.githubusercontent.com/Daveedmee/catppuccin-icons/main/assets/icons/preview/dark/terminals/powershell.png" width="64px" align="center">|<img src="https://raw.githubusercontent.com/Daveedmee/catppuccin-icons/main/assets/icons/preview/dark/terminals/windows-terminal.png" width="64px" align="center">|<img src="https://raw.githubusercontent.com/Daveedmee/catppuccin-icons/main/assets/icons/preview/dark/terminals/git-cmd.png" width="64px" align="center">|<img src="https://raw.githubusercontent.com/Daveedmee/catppuccin-icons/main/assets/icons/preview/dark/terminals/wezterm.png" width="64px" align="center">
 

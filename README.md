@@ -3,6 +3,14 @@
 	Catppuccin Icons
     </h3>
 
+<h3 align="center">
+    THIS PROJECT IS CURRENTLY ON A HIATUS AND NEEDS A MAJOR REWORK. IF ANYONE WANTS TO CONTRIBUTE PLEASE LET ME KNOW.</p>
+<p>SOME ICONS HAVE ROUGH EDGES ON HIGHER SCALE DUE TO LOSSY CONVERSION FROM SVG INTO ICO FORMAT. USE WITH CAUTION. 
+</p>
+
+
+&nbsp;
+
 <p align="center">
     A collection of <strong>over 100!</strong> icons I made to fit together with the <a href="https://github.com/catppuccin/catppuccin">Catppuccin color scheme.</a><br>
     For now, the icons are available in dark and light variants. Dark icons are based on the Macchiato color pallete as it's the one I use myself, light icons are based on Latte.
